@@ -1,0 +1,18 @@
+.navBar {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 1.5rem;
+    left: 1rem
+}
+
+.link {
+    color: white;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.link:active {
+    color: wheat;
+}
