@@ -1,5 +1,4 @@
 .navBar {
-    width: 15%;
     display: flex;
     justify-content: space-between;
     position: fixed;
@@ -11,6 +10,7 @@
     color: white;
     font-style: italic;
     text-decoration: none;
+    margin-right: 1rem;
 }
 
 .link:active {
